@@ -8,14 +8,14 @@ To let users understand Linked Lists, recursion, inheritance, frames and listene
 
 Write a graphical application for drawing and linking cars (or any other complex shaped object). The interface for the simulation should look something like the following:
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://raw.githubusercontent.com/bsheikh/Linked-List-Simulator/master/Images/1.png)
 
 #### Figure 1 
 
 The figure on the left shows the panel after the user has pressed the mouse in six locations to first create the truck, and then the five cars shown. The figure on the right shows the panel after car 3 has been hitched to the
 truck and after car 1 has been selected and hitched to car 3. Note the line used to visually depict a vehicle’s trailer “hitch”.
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://raw.githubusercontent.com/bsheikh/Linked-List-Simulator/master/Images/2.png)
 
 #### Figure 2
 
